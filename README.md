@@ -17,7 +17,7 @@ The  script  loops  through all the stocks for one year and outputs the followin
 It further includes functionality which returns the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 The output image for the year 2018 is 
-![image](/VBAChallenge/Year_2018.png)
+![image](/VBA/VBAChallenge/Year_2018.png)
 
 The .vbs script with the code is also included. You can drag and drop it as a module in VBA to run it.
 
