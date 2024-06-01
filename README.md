@@ -1,4 +1,4 @@
-# VBAChallenge
+# VBA Automation
  Stockanalysis
 
 The  script  loops  through all the stocks for one year and outputs the following information:
